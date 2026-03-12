@@ -4,16 +4,16 @@ Este foi um dos meus primeiros projetos em Python, desenvolvido enquanto eu apre
 
 🚀 Funcionalidades: 
 
-*Identificação de Signo*
+*Identificação de Signo*:
 O usuário insere a data de nascimento no formato DD/MM, e o programa identifica automaticamente o signo correspondente utilizando estruturas condicionais (if e else).
 
-*Música Aleatória*
+*Música Aleatória*:
 Após identificar o signo, o programa seleciona aleatoriamente uma música da pasta de arquivos .mp3.
 
-*Controle de Repetição*
+*Controle de Repetição*:
 O script registra as músicas já tocadas em um arquivo (tocadas.txt), evitando repetições até que todas as músicas da pasta tenham sido reproduzidas.
 
-*Validação de Entrada*
+*Validação de Entrada*:
 O programa valida o formato da data inserida para evitar erros de execução.
 
 🛠️ Tecnologias utilizadas:
